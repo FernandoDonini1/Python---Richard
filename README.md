@@ -1,2 +1,2 @@
-# Python---Richard
+# Python-Richard
 Curso Richard
