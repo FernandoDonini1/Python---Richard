@@ -1,0 +1,2 @@
+# Python---Richard
+Curso Richard
